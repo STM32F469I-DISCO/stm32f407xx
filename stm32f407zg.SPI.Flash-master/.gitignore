@@ -1,0 +1,5 @@
+/Listing/*
+/Output/*
+/Project/*
+!/Project/*.uvprojx
+!/Project/*.uvoptx
