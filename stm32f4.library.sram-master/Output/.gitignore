@@ -1,0 +1,13 @@
+# Output
+*.crf
+*.d
+*.o
+*.htm
+*.lnp
+*.sct
+*.dep
+*.iex
+*.__i
+*._ia
+
+
